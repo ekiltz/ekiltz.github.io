@@ -46,6 +46,7 @@ h1 { margin:.2rem 0 1.2rem; font-size:clamp(5rem,12vw,11rem); line-height:.82; l
 .publications-section { padding:8rem 4vw; }
 .section-heading { display:flex; justify-content:space-between; align-items:end; gap:2rem; margin-bottom:4rem; }
 .section-heading .section-index { margin-bottom:1.1rem; }
+.publication-updated { margin:.9rem 0 0; color:#66635d; font-size:.62rem; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
 .section-heading>a { font-size:.7rem; text-transform:uppercase; letter-spacing:.12em; border-bottom:1px solid var(--ink); padding-bottom:.4rem; }
 .publication-years { border-bottom:1px solid var(--line); }
 .publication-year { border-top:1px solid var(--line); }
